@@ -1,5 +1,7 @@
 # Papan Pengumuman Kampus (Campus Announcement Board)
 
+--> Tautan Repositori GitHub: https://github.com/Azumarz14/campus-announcement-board
+
 **Cloud-Native Fullstack Application & Automated CI/CD Pipeline**
 Ujian Chunin (UTS) - Mata Kuliah Cloud Computing, Telkom University
 
